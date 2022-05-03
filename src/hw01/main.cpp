@@ -14,7 +14,9 @@ int main()
 {
     int n;
     cin >> n;
-
+    for(int i = 1;i<=n;i++){
+        myFunction()
+    }
     // add your code here
 
     return 0;
